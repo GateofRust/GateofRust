@@ -21,13 +21,12 @@ GateofGust
 </p>
 
 
-### **技术栈:**
 
 **Language：**
 
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-JavaScript-47af15?style=flat-square&logo=javascript&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-C-007396?style=flat-square&logo=C&logoColor=000000)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)]()
+[![](https://img.shields.io/badge/-JavaScript-47af15?style=flat-square&logo=javascript&logoColor=ffffff)]()
+[![](https://img.shields.io/badge/-C-007396?style=flat-square&logo=C&logoColor=ffffff)]()
 
 **Web开发：**
 
@@ -48,6 +47,16 @@ GateofGust
 <a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
 <a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
+-->
 
+---
+![](https://github-readme-stats.vercel.app/api?username=GateofRust&show_icons=true&theme=dark&count_private=true)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GateofRust&theme=dark&layout=compact)
 
+---
+### **希望认识我:**
+
+> #### QQ:598177584 ####
+
+> #### wx:wxid_hobhe3hjzwcl22
