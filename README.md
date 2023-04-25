@@ -28,9 +28,14 @@ GateofGust
 [![](https://img.shields.io/badge/-JavaScript-47af15?style=flat-square&logo=javascript&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/-C-007396?style=flat-square&logo=C&logoColor=ffffff)]()
 
+
 **Web开发：**
 
-![Web Developer](https://skillicons.dev/icons?i=html,css,react,vue,vite,typescript)
+[![](https://img.shields.io/badge/-Lodash-007396?style=flat-square&logo=Lodash&logoColor=ffffff)]()
+[![](https://img.shields.io/badge/-Less-007396?style=flat-square&logo=Less&logoColor=ffffff)]()
+[![](https://img.shields.io/badge/-webpack-007396?style=flat-square&logo=webpack&logoColor=ffffff)]()
+--
+![Web Developer](https://skillicons.dev/icons?i=html,css,react,vue,vite,typescript,tailwindcss,bootstrap,svelte)
 
 **Tools：**
 
