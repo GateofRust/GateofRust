@@ -30,7 +30,7 @@ GateofGust
 
 **Web开发：**
 
-![Web Developer](https://skillicons.dev/icons?i=html,css,react,vue,vite)
+![Web Developer](https://skillicons.dev/icons?i=html,css,react,vue,vite,typescript)
 
 **Tools：**
 
